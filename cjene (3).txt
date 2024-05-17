@@ -9,14 +9,10 @@ Latte: 4.00€
 Mocha: 4.50€
 Čaj (razni okusi): 2.00€
 
-Svježi sokovi:
-
-
-
-
-
-
 
+
+
+Svježi sokovi:
 Naranča: 3.00 €
 Jabuka: 2.50 €
 Ananas: 3.50 €
@@ -33,9 +29,9 @@ Tonic Water: 2.50 €
 Bitter Lemon: 2.50 €
 
 Voda:
- Voda s mjehurićima: 2.00 € (0.5L), 3.00 € (1L)
- Voda bez mjehurića: 1.50 € (0.5L), 2.50 € (1L)
- Voda s okusom (limun, naranča): 2.50 € (0.5L), 3.50 € (1L)
+ Voda s mjehurićima: 2.00 € (0.5L), 3.00 € (1L)
+ Voda bez mjehurića: 1.50 € (0.5L), 2.50 € (1L)
+ Voda s okusom (limun, naranča): 2.50 € (0.5L), 3.50 € (1L)
 
 Alkoholna pića:
 
