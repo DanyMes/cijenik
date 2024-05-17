@@ -1,0 +1,36 @@
+<HotelCjenik>
+    <Kava_i_caj>
+        <Proizvod>
+            <Naziv>Espresso</Naziv>
+            <Cijena>2.50€</Cijena>
+        </Proizvod>
+        <Proizvod>
+            <Naziv>Dvostruki Espresso</Naziv>
+            <Cijena>3.50€</Cijena>
+        </Proizvod>
+        <!-- Ostali proizvodi kave i čaja -->
+    </Kava_i_caj>
+    <Svjezi_sokovi>
+        <Proizvod>
+            <Naziv>Naranča</Naziv>
+            <Cijena>3.00€</Cijena>
+        </Proizvod>
+        <Proizvod>
+            <Naziv>Jabuka</Naziv>
+            <Cijena>2.50€</Cijena>
+        </Proizvod>
+        <!-- Ostali svježi sokovi -->
+    </Svjezi_sokovi>
+    <Gazirani_napitci>
+        <Proizvod>
+            <Naziv>Coca-Cola</Naziv>
+            <Cijena>2.50€</Cijena>
+        </Proizvod>
+        <Proizvod>
+            <Naziv>Coca-Cola Zero</Naziv>
+            <Cijena>2.50€</Cijena>
+        </Proizvod>
+        <!-- Ostali gazirani napitci -->
+    </Gazirani_napitci>
+    <!-- Ostali dijelovi cjenika -->
+</HotelCjenik>
