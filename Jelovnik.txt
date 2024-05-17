@@ -1,0 +1,132 @@
+
+
+
+
+ Jelovnik
+
+ Predjela
+
+ Hladna predjela:
+   Carpaccio od govedine s parmezanom i rukolom  10€
+   Pašteta od jetre s brusnicama  7€
+   Hladna plata s pršutom, kulenom, sirom, maslinama i paprikama  12€
+   Šopska salata  6€
+   Caprese salata (paradajz, mozzarella, bosiljak, maslinovo ulje)  8€
+
+ Topla predjela:
+   Bruschetta s paradajzom i bosiljkom  5€
+   Sopa od bundeve s krutonima  6€
+   Pečeni camembert s medom i orasima  9€
+   Krem juha od gljiva  7€
+   Dagnje na buzaru  10€
+
+ Juhe
+
+ Bistre juhe:
+   Goveđa juha s rezancima  5€
+   Pileća juha s povrćem  5€
+   Riblja juha  6€
+
+ Krem juhe:
+   Krem juha od bundeve  6€
+   Krem juha od gljiva  6€
+   Krem juha od brokolija  6€
+
+ Salate
+
+ Svježe salate:
+   Miješana salata (zelena salata, paradajz, krastavac, luk)  4€
+   Grčka salata  7€
+   Cezar salata  8€
+   Salata s tunjevinom  7€
+   Salata od piletine i avokada  9€
+
+ Glavna jela
+
+ Meso:
+   Biftek s umakom od gljiva  18€
+   Pileći file na žaru  12€
+   Teleći kotlet s povrćem  16€
+   Svinjski vrat s roštilja  14€
+   Janjetina ispod sača  20€
+
+ Riba i morski plodovi:
+
+   Grilovani brancin  15€
+   Losos s umakom od limuna  16€
+   Lignje na žaru  14€
+   Škampi na buzaru  18€
+   Riblji file u umaku od bijelog vina  17€
+
+ Tjestenine i rižota
+
+ Tjestenine:
+   Špageti Bolognese  10€
+   Penne s četiri vrste sira  9€
+   Tagliatelle s piletinom i pesto umakom  11€
+   Lasagna  12€
+   Ravioli punjeni ricottom i špinatom  11€
+
+ Rižoti:
+   Rižoto s plodovima mora  13€
+   Rižoto s gljivama  11€
+   Rižoto s piletinom i povrćem  10€
+   Rižoto s tartufima  15€
+
+ Deserti
+
+ Kolači i torte:
+   Čokoladna torta  5€
+   Tiramisu  6€
+   Cheesecake  6€
+   Panna cotta s voćnim preljevom  5€
+   Voćna salata  4€
+
+ Sladoledi:
+   Kuglica sladoleda (razni okusi)  2€
+   Banana split  6€
+   Sladoled sundae  5€
+   Sladoledna torta  7€
+
+ Pića
+
+ Bezalkoholna pića:
+   Mineralna voda  2€
+   Gazirani sokovi (Cola, Fanta, Sprite)  3€
+   Voćni sokovi (narandža, jabuka, ananas)  3€
+   Ledeni čaj  3€
+   Smoothie (razni okusi)  4€
+
+ Topli napici:
+   Espresso  2€
+   Cappuccino  3€
+   Latte macchiato  3€
+   Čaj (razni okusi)  2€
+   Vruća čokolada  4€
+
+ Alkoholna pića:
+   Pivo (0.5L)  4€
+   Čaša vina (bijelo, crno)  5€
+   Kokteli (Mojito, Pina Colada, Margarita)  7€
+   Rakija (šljivovica, loza)  3€
+   Whiskey  6€
+
+ Specijaliteti kuće
+
+ Predjela:
+   Tartufi s parmezanom  12€
+   Carpaccio od hobotnice  14€
+
+ Glavna jela:
+   Jastog na žaru  25€
+   Paella s morskim plodovima  20€
+   Specijalitet kuće (goveđi medaljoni s tartufima)  22€
+
+ Deserti:
+   Torta kuće (čokolada i naranča)  7€
+   Krem brulee s vanilijom  6€
+
+
+
+
+PDV je uključen u sve cijene.
